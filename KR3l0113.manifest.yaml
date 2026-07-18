@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR3l0113_000.yaml, hash: 'sha256:0016e0e3b5e7335c5f810c4fe4d26f0a997432abff2a989e618a66a9d901aec1'}
   - {seq: 1, filename: KR3l0113_001.yaml, hash: 'sha256:8a0a15b357f5b8ef09c22074ecf53a65eb4551033291ec3bf3b1021639617af4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3l0113_000.markers.yaml, hash: 'sha256:23129638bbe809afa5fdbef2f04525bd48142857bdd52a3f91a50b03d92ef88e'}
-  - {seq: 1, role: markers, filename: assets/KR3l0113_001.markers.yaml, hash: 'sha256:8dccda00d846def97f3ee664f5e97fcdceb92ee33830b92c3c73b31beb964a8f'}
+  - {seq: 0, role: markers, filename: assets/KR3l0113_000.markers.yaml, hash: 'sha256:92b349ecf7ed332f1c2f497ae261354f808cb5e12548331164c678cdf2d632f3'}
+  - {seq: 1, role: markers, filename: assets/KR3l0113_001.markers.yaml, hash: 'sha256:ec892f0527212f085a57f1f3d52c67baf66e0ed779ba07e8df70e225589acca4'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 開天傳信記
   type: section
   level: 1
-hash: sha256:10fb83e36f64e3f949367b6beb67afd8e6db0520d743495c711c5f2456732927
+hash: sha256:7a75cfd06e9b5eb576c226c90e4d3c385df681745a8d52f195ef12c064e87147
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
